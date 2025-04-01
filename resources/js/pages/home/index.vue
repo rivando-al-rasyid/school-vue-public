@@ -100,6 +100,7 @@ const props = defineProps<{
           </div>
         </div>
       </div>
+      </section>
 
       <!-- Stats Section -->
       <section class="bg-background py-10 relative -mt-16 z-10">
@@ -442,5 +443,4 @@ const props = defineProps<{
         </div>
       </section>
     </div>
-  </div>
 </template>
