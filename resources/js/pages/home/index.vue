@@ -4,9 +4,6 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Link, Head } from '@inertiajs/vue3';
-
-// Using any type for Autoplay since we don't have type definitions
-// @ts-expect-error Module has no type definitions
 import Autoplay from 'embla-carousel-autoplay';
 
 // Type definitions
